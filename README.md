@@ -1,16 +1,41 @@
-## Hi there 👋
+                    Hey, I'm Anoushka 👋
 
-<!--
-**annBot2007/annBot2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+       CSE Student • AI/ML • Data Science • Analytics
 
-Here are some ideas to get you started:
+       "Turning data into insights,
+        models into experiments,
+        and caffeine into questionable amounts of code."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+                 🧠 CURRENTLY INTO
+
+       Artificial Intelligence     Machine Learning
+       Data Science                Data Analytics
+
+
+                    🚀 BUILDING
+
+       🤖 AI Projects
+       📊 Data & Analytics Projects
+       🧪 ML Experiments
+       💻 Random things that I probably didn't need to build
+
+
+                    🛠️ TOOLKIT
+
+       Python • C++ • SQL • Pandas • NumPy
+       Scikit-learn • TensorFlow • MongoDB • Git
+
+
+                    📈 GITHUB
+
+
+                    🎹 BEYOND CODE
+
+       Piano • Movies • Learning random things
+       • Trying to touch grass occasionally
+
+
+                    🌐 CONNECT
+
+                  LinkedIn • GitHub
