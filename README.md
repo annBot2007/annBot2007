@@ -106,5 +106,4 @@ Connect with me on LinkedIn if you're chill
 <img src="https://komarev.com/ghpvc/?username=annBot2007&style=flat-square" alt="Profile views"/>
 
 </div>
-![](./profile-3d-contrib/profile-green-animate.svg)
 
