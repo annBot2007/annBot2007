@@ -3,6 +3,7 @@
 # Hi, I'm Anoushka
 
 ### `CSE Student at Ramaiah Institute of Technology`
+### `Applied AI Intern at Lyzr AI`
 
 <p>
   <i>Interested in Data Analytics, Data Science, <br>
